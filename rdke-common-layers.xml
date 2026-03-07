@@ -23,7 +23,7 @@
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_COMMON_OSS_REFERENCE"/>
     </project>
 
-    <project groups="rdk" name="meta-rdk-halif-headers" path="meta-rdk-halif-headers" remote="rdkcentral" revision="refs/tags/3.0.2">
+    <project groups="rdk" name="meta-rdk-halif-headers" path="meta-rdk-halif-headers" remote="rdkcentral" revision="refs/tags/4.1.4">
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_HALIF_HEADERS"/>
     </project>
 
