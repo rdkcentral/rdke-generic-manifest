@@ -7,7 +7,7 @@
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_PROFILE_CONFIG"/>
     </project>
 
-    <project groups="configs" name="rdke-common-config" path="common" remote="rdkcentral" revision="refs/tags/1.0.20">
+    <project groups="configs" name="rdke-common-config" path="common" remote="rdkcentral" revision="refs/tags/1.0.21">
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_CONFIG_COMMON"/>
     </project>
 
