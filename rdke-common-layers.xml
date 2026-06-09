@@ -3,7 +3,7 @@
     <yocto version="kirkstone" />
     <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral"/>
 
-    <project groups="stacklayering" name="meta-stack-layering-support" path="meta-stack-layering-support" remote="rdkcentral" revision="refs/tags/3.3.1">
+    <project groups="stacklayering" name="meta-stack-layering-support" path="meta-stack-layering-support" remote="rdkcentral" revision="refs/tags/3.3.4">
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_STACK_LAYERING_SUPPORT"/>
     </project>
 
