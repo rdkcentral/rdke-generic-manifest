@@ -11,8 +11,4 @@
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_CONFIG_COMMON"/>
     </project>
 
-    <project groups="extension" name="meta-oss-common-config" path="ext" remote="rdkcentral" revision="refs/tags/1.4.0">
-        <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OSS_EXT"/>
-    </project>
-    
 </manifest>
