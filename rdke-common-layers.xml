@@ -7,7 +7,7 @@
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_STACK_LAYERING_SUPPORT"/>
     </project>
 
-    <project groups="buildsupport" name="meta-rdk-auxiliary" path="meta-rdk-auxiliary" remote="rdkcentral" revision="refs/tags/1.9.0">
+    <project groups="buildsupport" name="meta-rdk-auxiliary" path="meta-rdk-auxiliary" remote="rdkcentral" revision="refs/tags/1.10.0">
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_AUXILIARY"/>
     </project>
 
@@ -19,10 +19,14 @@
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_POKY"/>
     </project>
 
-    <project groups="layers" name="meta-rdk-oss-reference" path="meta-rdk-oss-reference" remote="rdkcentral" revision="refs/tags/4.13.0">
+    <project groups="layers" name="meta-rdk-oss-reference" path="meta-rdk-oss-reference" remote="rdkcentral" revision="refs/tags/4.14.0">
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_COMMON_OSS_REFERENCE"/>
     </project>
 
+    <project groups="extension" name="meta-rdk-bluetooth" path="meta-rdk-bluetooth" remote="rdkcentral" revision="refs/tags/1.1.0">
+        <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OSS_EXT"/>
+    </project>
+    
     <project groups="rdk" name="meta-rdk-halif-headers" path="meta-rdk-halif-headers" remote="rdkcentral" revision="refs/tags/5.0.0_hotfix">
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_HALIF_HEADERS"/>
     </project>
