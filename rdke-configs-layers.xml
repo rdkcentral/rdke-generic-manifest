@@ -14,9 +14,5 @@
     <project groups="extension" name="meta-oss-common-config" path="ext" remote="rdkcentral" revision="refs/tags/1.4.0">
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OSS_EXT"/>
     </project>
-
-    <project groups="rdk" name="meta-rdk-bluetooth" path="meta-rdk-bluetooth" remote="rdkcentral" revision="refs/tags/1.1.0">
-        <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_BLUETOOTH"/>
-    </project>
     
 </manifest>
