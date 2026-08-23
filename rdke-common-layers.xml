@@ -7,7 +7,7 @@
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_STACK_LAYERING_SUPPORT"/>
     </project>
 
-    <project groups="buildsupport" name="meta-rdk-auxiliary" path="meta-rdk-auxiliary" remote="rdkcentral" revision="refs/tags/1.9.0.1">
+    <project groups="buildsupport" name="meta-rdk-auxiliary" path="meta-rdk-auxiliary" remote="rdkcentral" revision="refs/tags/1.9.2.1">
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_AUXILIARY"/>
     </project>
 
